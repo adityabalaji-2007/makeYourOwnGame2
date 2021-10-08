@@ -1,1 +1,1 @@
-# makeYourOwnGame2
+# make-your-own-game
